@@ -1,0 +1,30 @@
+.main_box
+{
+    padding: 10px;
+    width: 400px;
+}
+.heading_box
+{
+    font-size: 2 rem;
+    padding: 8px 16px;
+    box-shadow: 0 2px 5px 0 black;
+    background-color: lightgray;
+}
+.content
+{
+    background-color: white;
+    box-shadow: 0 2px 5px 0 black;
+    padding: 8px;;
+}
+.content_box
+{
+   display: flex;
+   flex-direction: row; 
+   border-bottom: solid black 2px ;
+}
+img
+{
+    width: 100px;
+    padding: 4px;
+    text-align: center;
+}
